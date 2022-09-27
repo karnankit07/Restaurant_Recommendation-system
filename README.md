@@ -1,4 +1,4 @@
-# Restaurant_Recommendation-system
+# Restaurant_Recommendation_system
 
  Build a content-based recommendation system for those who gets bored going to same restaurant or try something new.
 
